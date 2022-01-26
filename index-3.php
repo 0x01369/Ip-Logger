@@ -1,4 +1,3 @@
-<?php
 <style>
   body {background-color:black;
     }
